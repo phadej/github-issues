@@ -1,0 +1,4 @@
+packages: .
+packages: github
+
+constraints: github +openssl

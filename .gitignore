@@ -1,0 +1,7 @@
+dist/
+dist-newstyle/
+.ghc.environment.*
+
+.env
+cache
+issues
